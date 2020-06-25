@@ -1,7 +1,7 @@
 
 GENERATED FILE, PLEASE MAKE EDITS ON MASTER AT https://github.com/2020PB/police-brutality/
 
-UPDATED AT: 2020-06-25T16:03:52.187651+00:00
+UPDATED AT: 2020-06-25T16:10:45.318571+00:00
 
 
 # Alabama
@@ -19,6 +19,8 @@ id: al-birmingham-1
 **Links**
 
 * https://www.al.com/news/birmingham/2020/06/two-reporters-taken-into-custody-after-covering-birmingham-protest.html
+
+adkjfdakjfkea this is spellllled wrong
 
 ### Police arrest journalist Michael Harriot | June 4
 
