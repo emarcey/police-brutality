@@ -14,6 +14,8 @@ id: al-birmingham-1
 
 adkjfdakjfkea this is spellllled wrong
 
+Oh evan you dumb dumb
+
 ### Police arrest journalist Michael Harriot | June 4
 
 Journalist Michael Harriot was covering a protest with a group of journalists; he was the only black journalist present. He left his press pass in the car for fear of being targeted by protesters, but he says he had a digital press pass on his phone.
